@@ -1,0 +1,19 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+import java.util.Scanner;
+
+public class conditions {
+   public conditions() {
+   }
+
+   public static void main(String[] var0) {
+      Scanner var1 = new Scanner(System.in);
+      int var2 = var1.nextInt();
+      switch (var2) {
+         case 1 -> System.out.println("the botton is 1");
+         case 2 -> System.out.println("the botton is 2");
+         case 3 -> System.out.println("the botton is 3");
+         default -> System.out.println("the botton is not valid");
+      }
+
+   }
+}

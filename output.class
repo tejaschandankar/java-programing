@@ -1,0 +1,9 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class output {
+   public output() {
+   }
+
+   public static void main(String[] var0) {
+      System.out.print("*\n**\n****\n*****\n******\n*******\n********\n*********\n**********");
+   }
+}

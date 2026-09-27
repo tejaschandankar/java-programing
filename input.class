@@ -1,0 +1,17 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+import java.util.Scanner;
+
+public class input {
+   public input() {
+   }
+
+   public static void main(String[] var0) {
+      Scanner var1 = new Scanner(System.in);
+      System.out.println("enter the first number:");
+      int var2 = var1.nextInt();
+      System.out.println("enter the second number:");
+      int var3 = var1.nextInt();
+      int var4 = var2 + var3;
+      System.out.print(var4);
+   }
+}
