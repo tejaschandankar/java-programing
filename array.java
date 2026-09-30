@@ -4,6 +4,8 @@ public class array {
 
     // public static void main(String[] args) {
     // // int[] rollnum = new int[3];
+
+    // int[] rollnum = {101, 102, 103}; // without declaring the size of array we can also declare the array and assign the values to it
     // // rollnum[0] = 101;
     // // rollnum[1] = 102;
     // // rollnum[2] = 103;
